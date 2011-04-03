@@ -12,7 +12,7 @@
     <jboss:container>
         <!-- TODO: Download container automatically and provide relative path.  -->
         <!-- For AS managed profile.  -->
-        <jbossHome>\user\server\jboss-5.1.0.GA</jbossHome>
+        <jbossHome>C:\01-Development\Projekte\jboss-commit\jboss-5.1.0.GA</jbossHome>
         <!-- <javaHome>/usr/lib/jvm/java-6-openjdk</javaHome> default: JAVA_HOME-->
         <!--<profileName>default</profileName>-->
         <bindAddress>127.0.0.1</bindAddress>
