@@ -1,4 +1,4 @@
-                        seamArquillian-sdc2010
+                        seamArquillian-sdc2011
                         =========================
 
 Sample code of Seam Arquillian talk at SDC 2011. This demo application brings Arquillian integration tests into Seam 2 application.
